@@ -1,6 +1,6 @@
 PixelExperience GSI For Samsung Galaxy Tab A8 2019. (T290)
 I'm not responsible for damage to Any dead equipment or loss of warranty!
-![image](https://github.com/HeribertYavuz/t290pixelexp/assets/44903095/4aa81d12-c34d-46e5-ae66-17512f8a5201)
+[image](https://github.com/HeribertYavuz/t290pixelexp/assets/44903095/4aa81d12-c34d-46e5-ae66-17512f8a5201)
 Baseband version. T290XXS5CWG5.
 everything works.
 Double tab. MTP. battery saver. not work.

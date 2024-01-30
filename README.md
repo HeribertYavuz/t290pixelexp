@@ -13,4 +13,4 @@ Screenshots.
 ![image](https://github.com/HeribertYavuz/t290pixelexp/assets/44903095/5a6c1715-0820-4ce1-aed5-3c64dabb6fcf)
 ![image](https://github.com/HeribertYavuz/t290pixelexp/assets/44903095/a4f93f57-f905-4ed9-8166-c6298489e400)
 ![image](https://github.com/HeribertYavuz/t290pixelexp/assets/44903095/0eb44c4d-f838-4f77-a965-6c18c2d7912c)
-
+Download Link. https://drive.google.com/file/d/1Ga9ZSzjBT5S8oYagrMrLLZPO8BVDPOh_/view?usp=drive_link
